@@ -16,7 +16,7 @@ import AdminAppointments from './pages/AppointmentAdmin'
 import AllUsers from './pages/Users/AllUsers'
 
 
-export const backendUrl = import.meta.env.VITE_BACKEND_URL
+export const backendUrl = "https://abg-beauty-hub-server.onrender.com"
 export const currency = '₦'
 
 function App() {
