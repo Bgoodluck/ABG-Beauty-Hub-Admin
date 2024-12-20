@@ -17,7 +17,7 @@ import AllUsers from './pages/Users/AllUsers'
 
 
 export const backendUrl = "https://abg-beauty-hub-server.onrender.com"
-export const currency = '₦'
+export const currency = '$'
 
 function App() {
 
